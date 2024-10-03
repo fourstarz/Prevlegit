@@ -27,8 +27,8 @@ This Python script demonstrates a method for bypassing Windows UAC (User Account
 Features:
 
 Elevates privileges without triggering UAC prompts
-# Can be used for testing security vulnerabilities in a controlled environment
-# Demonstrates a known UAC bypass technique for learning and research purposes
+Can be used for testing security vulnerabilities in a controlled environment
+Demonstrates a known UAC bypass technique for learning and research purposes
 
 
 How It Works:
