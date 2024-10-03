@@ -1,10 +1,4 @@
-##   ____                     _               _  _   
- |  _ \  _ __  ___ __   __| |  ___   __ _ (_)| |_ 
- | |_) || '__|/ _ \\ \ / /| | / _ \ / _` || || __|
- |  __/ | |  |  __/ \ V / | ||  __/| (_| || || |_ 
- |_|    |_|   \___|  \_/  |_| \___| \__, ||_| \__|
-                                    |___/         ##
-
+## PREVLEGIT ##
 **Disclaimer**:
 
 This project is for educational and research purposes only. Bypassing User Account Control (UAC) is a security risk, and its use should be limited to legal and ethical scenarios, such as testing or improving security systems. Unauthorized use or malicious intent could result in legal consequences. By using this project, you agree that the creator(s) take no responsibility for any misuse or damage caused by this code.
